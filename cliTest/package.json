@@ -1,13 +1,13 @@
 {
-  "name": "clitest",
+  "name": "xysui-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "cui组件脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": "index.js",
-  "author": "",
+  "author": "xueyushuai",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
@@ -17,5 +17,10 @@
     "inquirer": "^7.3.3",
     "log-symbols": "^4.0.0",
     "ora": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "xys",
+    "xysui",
+    "xysui-cli"
+  ]
 }
